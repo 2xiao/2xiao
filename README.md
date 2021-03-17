@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**2xiao/2xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a  👩‍💻 **front-end engineer** and a  💊 **part-time philosopher**.
 
-Here are some ideas to get you started:
+* 💻   Senior front-end engineer at Tencent Group.
+* 📆   3 years' development working experience.
+* 👩🏻‍🎓   Master of Electronic Science and Technology, BUPT.
+* 🔭   Currently learning Flutter & Go.
+* 🌱   Interested in economics and philosophy.
+* ✍🏻   Writing [blog](https://2xiao.github.io/blog) to record my work & life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=2xiao&show_icons=true&count_private=true&theme=default_repocard&hide_title=true)
+
+![](https://visitor-badge.glitch.me/badge?page_id=2xiao.readme)
