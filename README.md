@@ -7,7 +7,7 @@ I am a  👩‍💻 **front-end engineer** and a  💊 **part-time philosopher**
 * 👩🏻‍🎓   Master of Electronic Science and Technology, BUPT.
 * 🔭   Currently learning Flutter & Go.
 * 🌱   Interested in economics and philosophy.
-* ✍🏻   Writing [blog](https://2xiao.github.io/blog) to record my work & life.
+* ✍🏻   Writing [blog](https://2xiao.github.io/fe) to record my work & life.
 
 ![](https://github-readme-stats.vercel.app/api?username=2xiao&show_icons=true&count_private=true&theme=default_repocard&hide_title=true)
 
