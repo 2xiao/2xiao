@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a  👩‍💻 **front-end engineer**.
+I am **Xiaoxiao Wu**.
 
 * 💻   Senior front-end engineer at Tencent Group.
 * 📆   4 years' development working experience.
