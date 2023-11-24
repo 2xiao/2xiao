@@ -9,8 +9,8 @@ I am **Xiaoxiao Wu**.
 
 **Books:**  
 
-<code>[<img height="200" src="https://2xiao.github.io/leetcode-js/images/leetcode-js-logo.png">](https://2xiao.github.io/leetcode-js/leetcode/)</code>
-<code>[<img height="200" src="https://2xiao.github.io/leetcode-js/images/react-logo.png">](https://2xiao.github.io/leetcode-js/react/)</code>
+<code>[<img height="200" src="https://2xiao.github.io/leetcode-js/assets/image/leetcode-js-logo.png">](https://2xiao.github.io/leetcode-js/leetcode/)</code>
+<code>[<img height="200" src="https://2xiao.github.io/leetcode-js/assets/image/react-logo.png">](https://2xiao.github.io/leetcode-js/react/)</code>
 
 **Languages:**  
 
