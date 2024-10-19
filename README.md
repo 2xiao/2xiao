@@ -5,12 +5,12 @@ I am **Xiaoxiao Wu**.
 * 💻   Senior front-end engineer at Tencent Group.
 * 📆   4 years' development working experience.
 * 👩🏻‍🎓   Master of Electronic Science and Technology, BUPT.
-* ✍🏻   Writing [blog](https://2xiao.github.io/leetcode-js) to record my work & life.
+* ✍🏻   Writing [blog](https://2xiao.github.io) to record my work & life.
 
 **Books:**  
 
-<code>[<img height="200" src="https://2xiao.github.io/leetcode-js/assets/image/leetcode-js-logo.png">](https://2xiao.github.io/leetcode-js/leetcode/)</code>
-<code>[<img height="200" src="https://2xiao.github.io/leetcode-js/assets/image/react-logo.png">](https://2xiao.github.io/leetcode-js/react/)</code>
+<code>[<img height="200" src="https://2xiao.github.io/leetcode-js/assets/image/leetcode-js-logo.png">](https://2xiao.github.io/leetcode-js/)</code>
+<code>[<img height="200" src="https://2xiao.github.io/leetcode-js/assets/image/react-logo.png">](https://2xiao.github.io/my-react/)</code>
 
 **Languages:**  
 
