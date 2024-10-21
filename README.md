@@ -11,6 +11,7 @@ I am **Xiaoxiao Wu**.
 
 <code>[<img height="200" src="https://2xiao.github.io/leetcode-js/assets/image/leetcode-js-logo.png">](https://2xiao.github.io/leetcode-js/)</code>
 <code>[<img height="200" src="https://2xiao.github.io/leetcode-js/assets/image/react-logo.png">](https://2xiao.github.io/my-react/)</code>
+<code>[<img height="200" src="https://2xiao.github.io/leetcode-js/assets/image/vue-logo.png">](https://2xiao.github.io/my-vue/)</code>
 
 **Languages:**  
 
