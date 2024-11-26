@@ -9,7 +9,7 @@ I am **Xiaoxiao Wu**.
 
 **Books:**  
 
-<code>[<img height="200" src="https://2xiao.github.io/assets/image/leetcode-js-logo.png">](https://2xiao.github.io/)</code>
+<code>[<img height="200" src="https://2xiao.github.io/assets/image/leetcode-js-logo.png">](https://2xiao.github.io/leetcode-js/)</code>
 <code>[<img height="200" src="https://2xiao.github.io/assets/image/react-logo.png">](https://2xiao.github.io/my-react/)</code>
 <code>[<img height="200" src="https://2xiao.github.io/assets/image/vue-logo.png">](https://2xiao.github.io/my-vue/)</code>
 <code>[<img height="200" src="https://2xiao.github.io/assets/image/system-logo.png">](https://2xiao.github.io/system-design/)</code>
