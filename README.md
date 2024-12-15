@@ -14,8 +14,8 @@
 
 **📈 Stats:**
 
-<img src="https://github-readme-stats.vercel.app/api?username=2xiao&hide_title=true&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true" alt="Github Stats">
+[<img src="https://github-readme-stats.vercel.app/api?username=2xiao&hide_title=true&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true" alt="Github Stats">](https://github.com/2xiao)
 
 **👩‍💻 LeetCode:**
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=22xiao&animated=false&theme=dark" alt="LeetCode Badges">
+[<img src="https://leetcode-badge-showcase.vercel.app/api?username=22xiao&animated=false&theme=dark" alt="LeetCode Badges">](https://leetcode.com/u/22xiao/)
