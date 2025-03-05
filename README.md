@@ -16,9 +16,6 @@
         <a href="https://2xiao.github.io/my-react/" target="_blank">
           <img height="160" src="https://2xiao.github.io/assets/image/react-logo.png">
         </a>
-        <a href="https://2xiao.github.io/my-vue/" target="_blank">
-          <img height="160" src="https://2xiao.github.io/assets/image/vue-logo.png">
-        </a>
         <a href="https://2xiao.github.io/system-design/" target="_blank">
           <img height="160" src="https://2xiao.github.io/assets/image/system-logo.png">
         </a>
