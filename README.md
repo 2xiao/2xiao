@@ -11,13 +11,13 @@
     <h3>📚 Books</h3>
       <p>
         <a href="https://2xiao.github.io/leetcode-js/" target="_blank">
-          <img height="170" src="https://2xiao.github.io/assets/image/leetcode-js-logo.png">
+          <img width="155px" src="https://2xiao.github.io/assets/image/leetcode-js-logo.png">
         </a>
         <a href="https://2xiao.github.io/my-react/" target="_blank">
-          <img height="170" src="https://2xiao.github.io/assets/image/react-logo.png">
+          <img width="155px" src="https://2xiao.github.io/assets/image/react-logo.png">
         </a>
         <a href="https://2xiao.github.io/system-design/" target="_blank">
-          <img height="170" src="https://2xiao.github.io/assets/image/system-logo.png">
+          <img width="155px" src="https://2xiao.github.io/assets/image/system-logo.png">
         </a>
       </p>
       <h3>📈 Stats</h3>
