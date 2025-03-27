@@ -13,7 +13,7 @@
         <a href="https://wangfuyou.com/leetcode-js/" target="_blank">
           <img width="155px" src="https://wangfuyou.com/assets/image/leetcode-js-logo.png">
         </a>
-        <a href="https://wangfuyou.como/my-react/" target="_blank">
+        <a href="https://wangfuyou.com/my-react/" target="_blank">
           <img width="155px" src="https://wangfuyou.com/assets/image/react-logo.png">
         </a>
         <a href="https://wangfuyou.com/system-design/" target="_blank">
