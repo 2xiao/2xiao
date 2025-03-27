@@ -3,21 +3,21 @@
 - 💻   Senior front-end engineer at Tencent Group.
 - 📆   4 years' development working experience.
 - 👩🏻‍🎓   Master of Electronic Science and Technology, BUPT.
-- ✍🏻   Writing [blog](https://2xiao.github.io) to record my work & life.
+- ✍🏻   Writing [blog](https://wangfuyou.com) to record my work & life.
 
 <table>
   <tr>
     <td width="60%">
     <h3>📚 Books</h3>
       <p>
-        <a href="https://2xiao.github.io/leetcode-js/" target="_blank">
-          <img width="155px" src="https://2xiao.github.io/assets/image/leetcode-js-logo.png">
+        <a href="https://wangfuyou.com/leetcode-js/" target="_blank">
+          <img width="155px" src="https://wangfuyou.com/assets/image/leetcode-js-logo.png">
         </a>
-        <a href="https://2xiao.github.io/my-react/" target="_blank">
-          <img width="155px" src="https://2xiao.github.io/assets/image/react-logo.png">
+        <a href="https://wangfuyou.como/my-react/" target="_blank">
+          <img width="155px" src="https://wangfuyou.com/assets/image/react-logo.png">
         </a>
-        <a href="https://2xiao.github.io/system-design/" target="_blank">
-          <img width="155px" src="https://2xiao.github.io/assets/image/system-logo.png">
+        <a href="https://wangfuyou.com/system-design/" target="_blank">
+          <img width="155px" src="https://wangfuyou.com/assets/image/system-logo.png">
         </a>
       </p>
       <h3>📈 Stats</h3>
